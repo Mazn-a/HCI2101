@@ -1,50 +1,80 @@
+# 🎮 XO Game (Tic Tac Toe)
 
-🎮 لعبة XO (تيك تاك تو)
-📌 وصف المشروع
+A modern and responsive **XO (Tic Tac Toe)** game built using **HTML, CSS, and JavaScript** in a **single HTML file**.  
+The game supports **single-player and two-player modes** with a fully **Arabic user interface**.
 
-هذا المشروع عبارة عن لعبة XO (تيك تاك تو) مطوّرة باستخدام HTML, CSS, JavaScript داخل ملف واحد فقط (index.html).
-تم تصميم اللعبة بواجهة حديثة، ملونة، ومتجاوبة، وتعمل على أجهزة الكمبيوتر والجوال، كما أن الواجهة باللغة العربية بالكامل.
+Link: https://mazn-a.github.io/HCI2101/lab2/
 
-✨ مميزات اللعبة
+---
 
-🎨 تصميم عصري وجذاب
+## 🚀 Features
 
-📱 متجاوبة مع جميع أحجام الشاشات
+- 🌐 Fully Arabic Interface
+- 🎨 Modern, clean, and colorful UI
+- 📱 Responsive design (Desktop & Mobile)
+- 👤 Single-player mode (Play against Computer)
+- 👥 Two-player mode
+- ✍️ Player name input before starting
+- 🔁 Restart game option
+- 📌 Permanent footer with student information
+- 📄 All code in **one single file**
 
-👤 دعم لاعب واحد (ضد الكمبيوتر)
+---
 
-👥 دعم لاعبين
+## 🕹️ How to Play
 
-✍️ شاشة بداية لإدخال أسماء اللاعبين
+1. Open `index.html` in any modern web browser.
+2. Choose game mode:
+   - Single Player
+   - Two Players
+3. Enter player name(s).
+4. Click **Start Game**.
+5. Player 1 plays with **X** and Player 2 / Computer plays with **O**.
+6. The first player to align three symbols wins.
 
-🧠 كمبيوتر بحركات عشوائية ذكية
+---
 
-🔁 إمكانية إعادة اللعب بسهولة
+## 🛠️ Technologies Used
 
-📌 فوتر ثابت يحتوي على معلومات الطالب والمشرف
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-🕹️ طريقة اللعب
+---
 
-افتح ملف index.html في أي متصفح حديث.
+## 📂 Project Structure
 
-اختر وضع اللعب:
+XO-Game/
+│
+├── index.html
+└── README.md
 
-لاعب واحد
 
-لاعبان
+---
 
-أدخل أسماء اللاعبين.
+## 👨‍🎓 Student Information
 
-اضغط على ابدأ اللعبة.
+- **Student Name:**  
+  MAZEN ATIAH SALEM ALTHUBYANI  
+  (مازن عطيه سالم الذبياني)
 
-اللاعب الأول يستخدم (X) والثاني أو الكمبيوتر يستخدم (O).
+- **Student ID:**  
+  446003719
 
-أول من يكوّن صفًا أو عمودًا أو قطرًا من 3 رموز يفوز.
+- **Supervised by:**  
+  Mohammed Ahmed Jabali
 
-🛠️ التقنيات المستخدمة
+---
 
-HTML5
+## ✅ Notes
 
-CSS3
+- No external libraries required.
+- Works offline.
+- Compatible with all modern browsers.
+- Designed for academic submission.
 
-JavaScript (Vanilla JS)
+---
+
+## 📄 License
+
+This project is for **educational purposes only**.
